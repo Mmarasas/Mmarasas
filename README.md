@@ -1,5 +1,5 @@
 ## Hi there 👋
-I teach at Tilden High School [([tilden.cps.edu](tilden.cps.edu))]
+I teach at Tilden High School [((tilden.cps.edu))]
 The first tech I own Sega Genesis
 Hometown:  Caloocan Phil
 Field of Study:  History Secondary Education
